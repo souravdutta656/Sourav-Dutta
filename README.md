@@ -11,7 +11,7 @@ A decentralized smart contract for storing and retrieving code snippets on the *
 **Share code on-chain, retrieve it anytime, and build transparent developer collaboration on Stellar.**
 
 ## Credential
-**Contract id - CC6JDAYITUJP65ERZDJMJ6G4ZUWSXUEB2HRFVOI6VFFVGJKAYZJU3KLG
+Contract id - CC6JDAYITUJP65ERZDJMJ6G4ZUWSXUEB2HRFVOI6VFFVGJKAYZJU3KLG
 
 ---
 
