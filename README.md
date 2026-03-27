@@ -177,4 +177,8 @@ pub struct CodeSnippet {
     pub title: String,
     pub language: String,
     pub content: String,
-}# Sourav-Dutta
+}
+```
+<img width="1470" height="836" alt="Screenshot 2026-03-27 at 1 58 28 PM" src="https://github.com/user-attachments/assets/f904e41a-caf4-490a-8eab-4310445ba397" />
+
+
